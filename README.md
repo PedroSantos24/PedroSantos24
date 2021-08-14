@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm a financial auditor and Tech enthusiast.</h3>
+<img align="right" width="100" height="100" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 <h3 align="left">- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
 <h3 align="left">  - 🌱 I’m currently learning <strong>React JS</strong>
 <h3 align="left">- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 <h3 align="left">- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
-<img align="right" width="100" height="100" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-
   
 <h3 align="left">Spotify playing now:</h3>
 </p>
