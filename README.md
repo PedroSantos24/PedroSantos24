@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm a financial auditor and Tech enthusiast.</h3>
-- 🔭 I’m currently working for a portuguese auditing company. [www.pkf.pt](www.pkf.pt)
+
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
