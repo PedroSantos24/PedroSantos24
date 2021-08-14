@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm a financial auditor and Tech enthusiast.</h3>
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="400" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
 - 🌱 I’m currently learning <strong>React JS</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
