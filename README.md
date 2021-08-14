@@ -6,8 +6,9 @@
 <h3 align="left">- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
 [![Some Title](https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
-
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify2-olive.vercel.app/api/spotify)](https://open.spotify.com/user/11168847722)
