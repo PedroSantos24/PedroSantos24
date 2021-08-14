@@ -6,7 +6,7 @@
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
   
-<h3 align="left">Spotify playing now:</h3>
+##<h3 align="left">Spotify playing now:</h3>
 </p>
   
 [![Spotify](https://spotify2-olive.vercel.app/api/spotify)](https://open.spotify.com/user/11168847722)
