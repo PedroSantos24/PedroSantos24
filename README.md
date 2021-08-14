@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[<img src="https://try1-pedrosantos24.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/11168847722)
+[![Spotify](https://spotify2-olive.vercel.app.vercel.app/api/spotify2)](https://open.spotify.com/user/11168847722)
 
 
 
