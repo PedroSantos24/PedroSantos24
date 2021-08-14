@@ -7,10 +7,11 @@
 <img align="right" width="100" height="100" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 
   
-  
-  
-### Spotify Playing Now
+<h3 align="left">Spotify playing now:</h3>
+<p align="left">
 [![Spotify](https://spotify2-olive.vercel.app/api/spotify)](https://open.spotify.com/user/11168847722)
+</p>
+
 
 
 
