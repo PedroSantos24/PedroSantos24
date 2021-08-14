@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PedroSantos24
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @PedroSantos24 a financial enthusiast from Porto!
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -21,5 +21,8 @@ You can click the Preview link to take a look at your changes.
 ## Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedrosantos24)
 
-
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantos24&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrosantos24&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
