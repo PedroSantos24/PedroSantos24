@@ -19,9 +19,6 @@ You can click the Preview link to take a look at your changes.
 ![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)</a> </p>
 
 ## Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedrosantos24)
-
- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantos24&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrosantos24&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
