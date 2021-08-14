@@ -6,6 +6,10 @@
 <h3 align="left">- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
 <img align="right" width="100" height="100" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 
+  
+  
+  
+##Spotify Playing Now
 [![Spotify](https://spotify2-olive.vercel.app/api/spotify)](https://open.spotify.com/user/11168847722)
 
 
