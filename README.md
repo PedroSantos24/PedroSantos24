@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/PowerBI.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/PowerBI.png" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantos24&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
