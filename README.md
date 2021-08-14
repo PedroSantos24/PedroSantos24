@@ -4,7 +4,8 @@
 <h3 align="left">  - 🌱 I’m currently learning <strong>React JS</strong>
 <h3 align="left">- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 <h3 align="left">- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
-![alt text](https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif)
+  
+[![alt text](https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif)
 
 
 [![Spotify](https://spotify2-olive.vercel.app/api/spotify)](https://open.spotify.com/user/11168847722)
