@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain-wordmark.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantos24&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
