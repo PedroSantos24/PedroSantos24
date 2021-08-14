@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm a financial auditor and Tech enthusiast.</h3>
-</br>
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+</a>
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify2-olive.vercel.app/api/spotify)](https://open.spotify.com/user/11168847722)
