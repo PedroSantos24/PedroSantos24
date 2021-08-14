@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify2-eight.vercel.app)](https://open.spotify.com/user/11168847722)
-[![Spotify](https://spotify2-olive.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/11168847722)
+[![Spotify](spotify2-olive.vercel.app)](https://open.spotify.com/user/11168847722)
 
 
 
