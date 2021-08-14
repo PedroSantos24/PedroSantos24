@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify2-ngfa0uxm5-1234.vercel.app)](https://open.spotify.com/user/11168847722)
+[![Spotify](https://try1-pixiyj7pd-pedrosantos24.vercel.app)](https://open.spotify.com/user/11168847722)
 
 
 
