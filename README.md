@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @PedroSantos24 a financial enthusiast from Porto!
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
+</br>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+- 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
+- 💬 Ask me about: **Vue, Powershell, C#, Architecture, Azure**
+- 📫 How to reach me: **Find me on [<img alt="Alex | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/alexcarlsen/)**
+- ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/11168847722)
+
+---
 <!---
 PedroSantos24/PedroSantos24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
