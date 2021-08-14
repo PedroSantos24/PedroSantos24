@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm a financial auditor and Tech enthusiast.</h3>
 </br>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 📫 How to reach me: **Find me on [<img alt="Alex | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/pedroguedes21/)
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
