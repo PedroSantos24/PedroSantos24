@@ -6,9 +6,9 @@
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
 - - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
+  <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
   
-  
-  
+  <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
   
   
   
